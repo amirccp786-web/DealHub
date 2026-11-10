@@ -1,0 +1,18 @@
+# ===================================================================
+# DealHub Global Robots.txt
+# Targeting: Tier 1 (US, CA, UK, EU, AU) & Tier 2 (IN, PK, ME, Global)
+# ===================================================================
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+
+# Crawl Delay & Search Engine Optimization
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://dealhub.com/sitemap.xml
+

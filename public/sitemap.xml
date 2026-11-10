@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home / Global Feed -->
+  <url>
+    <loc>https://dealhub.com/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://dealhub.com/ca/"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://dealhub.com/au/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/"/>
+  </url>
+
+  <!-- 1. Home & Kitchen -->
+  <url>
+    <loc>https://dealhub.com/home-kitchen/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/home-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/home-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/home-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://dealhub.com/ca/home-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/heissluftfritteuse-kueche/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/friteuse-sans-huile-cuisine/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/friggitrice-ad-aria-cucina/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/freidora-de-aire-cocina/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/heteluchtfriteuse-keuken/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/frytkownica-beztluszczowa-kuchnia/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/varmluftsfritos-kok/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/home-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/home-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/home-kitchen/"/>
+  </url>
+
+  <!-- 2. Women's Fashion -->
+  <url>
+    <loc>https://dealhub.com/womens-fashion/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/womens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/womens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/womens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://dealhub.com/ca/womens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/damenmode/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/mode-femme/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/moda-donna/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/moda-mujer/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/dameskleding/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/moda-damska/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/dammode/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/womens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/womens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/womens-fashion/"/>
+  </url>
+
+  <!-- 3. Men's Fashion -->
+  <url>
+    <loc>https://dealhub.com/mens-fashion/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/mens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/mens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/mens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://dealhub.com/ca/mens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/herrenmode/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/mode-homme/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/moda-uomo/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/moda-hombre/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/herenkleding/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/moda-meska/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/herrmode/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/mens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/mens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/mens-fashion/"/>
+  </url>
+
+  <!-- 4. Girl's Fashion -->
+  <url>
+    <loc>https://dealhub.com/girls-fashion/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/girls-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/girls-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/girls-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/maedchen-kleidung/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/vetements-fille/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/abbigliamento-bambina/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/ropa-nina/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/meisjeskleding/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/ubrania-dziewczece/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/flickklader/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/girls-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/girls-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/girls-fashion/"/>
+  </url>
+
+  <!-- 5. Boy's Fashion -->
+  <url>
+    <loc>https://dealhub.com/boys-fashion/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/boys-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/boys-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/boys-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/jungen-kleidung/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/vetements-garcon/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/abbigliamento-bambino/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/ropa-nino/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/jongenskleding/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/ubrania-chlopiece/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/pojkklader/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/boys-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/boys-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/boys-fashion/"/>
+  </url>
+
+  <!-- 6. Electronics -->
+  <url>
+    <loc>https://dealhub.com/electronic/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/electronic/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/electronic/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/electronic/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/elektronik-kopfhoerer/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/electronique-ecouteurs/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/elettronica-cuffie/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/electronica-auriculares/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/elektronica-oordopjes/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/elektronika-sluchawki/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/elektronik-horlurar/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/electronic/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/electronic/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/electronic/"/>
+  </url>
+
+  <!-- 7. Health Care -->
+  <url>
+    <loc>https://dealhub.com/health-care/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/health-care/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/health-care/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/health-care/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/gesundheit-blutdruckmessgeraet/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/sante-tensiometre/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/salute-misuratore-pressione/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/salud-tensimetro/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/gezondheid-bloeddrukmeter/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/zdrowie-cisnieniomierz/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/halsa-blodtrycksmatare/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/health-care/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/health-care/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/health-care/"/>
+  </url>
+
+</urlset>
+
