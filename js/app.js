@@ -8,7 +8,7 @@
 // -------------------------------------------------------------
 class DealStore {
   constructor() {
-    this.STORAGE_KEY = 'dealhub_deals_v10';
+    this.STORAGE_KEY = 'dealhub_deals_v12';
     this.THEME_KEY = 'dealhub_theme';
     this.REGION_KEY = 'dealhub_region';
     this.deals = this.loadDeals();
@@ -22,6 +22,8 @@ class DealStore {
   loadDeals() {
     const BACKUP_KEY = 'dealhub_user_posts_backup';
     const KNOWN_KEYS = [
+      'dealhub_deals_v12',
+      'dealhub_deals_v11',
       'dealhub_deals_v10',
       'dealhub_deals_v9',
       'dealhub_deals_v8',
@@ -961,50 +963,62 @@ class DealHubUI {
         class="deal-card bg-white dark:bg-slate-800 rounded-2xl border border-slate-200/90 dark:border-slate-700/80 shadow-sm hover:shadow-md transition-all duration-200 overflow-hidden mb-6"
       >
         <!-- CARD HEADER -->
-        <div class="p-4 sm:p-5 flex items-center justify-between border-b border-slate-100 dark:border-slate-700/60">
-          <div class="flex items-center gap-3">
-            <img 
-              src="${deal.author.avatar}" 
-              alt="${deal.author.name}" 
-              class="w-10 h-10 rounded-full object-cover ring-2 ring-slate-100 dark:ring-slate-700"
-              loading="lazy"
-            />
-            <div>
-              <div class="flex items-center gap-1.5">
-                <span class="font-semibold text-sm text-slate-900 dark:text-slate-100">${deal.author.name}</span>
+        <div class="px-4 pt-4 pb-3 sm:px-5 sm:pt-5 sm:pb-4 border-b border-slate-100 dark:border-slate-700/60">
+          <div class="flex items-start justify-between gap-2">
+
+            <!-- Left: Avatar + Author info -->
+            <div class="flex items-center gap-3 min-w-0">
+              <div class="relative flex-shrink-0">
+                <img 
+                  src="${deal.author.avatar}" 
+                  alt="${deal.author.name}" 
+                  class="w-11 h-11 rounded-full object-cover ring-2 ring-white dark:ring-slate-700 shadow-sm"
+                  loading="lazy"
+                />
                 ${deal.author.verified ? `
-                  <i data-lucide="badge-check" class="w-4 h-4 text-blue-500 fill-blue-500/20"></i>
+                  <span class="absolute -bottom-0.5 -right-0.5 bg-blue-500 rounded-full p-0.5 ring-1 ring-white dark:ring-slate-800">
+                    <i data-lucide="check" class="w-2.5 h-2.5 text-white stroke-[3]"></i>
+                  </span>
                 ` : ''}
               </div>
-              <div class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400">
-                <span>${deal.author.handle}</span>
-                <span>•</span>
-                <span>${deal.timestamp}</span>
+              <div class="min-w-0">
+                <div class="flex items-center gap-1.5 flex-wrap">
+                  <span class="font-bold text-sm text-slate-900 dark:text-slate-100 leading-tight">${deal.author.name}</span>
+                </div>
+                <div class="flex items-center gap-1.5 mt-0.5 flex-wrap">
+                  <span class="text-[11px] text-slate-400 dark:text-slate-500 font-medium">${deal.author.handle}</span>
+                  <span class="text-slate-300 dark:text-slate-600 text-[10px]">•</span>
+                  <span class="text-[11px] text-slate-400 dark:text-slate-500">${deal.timestamp}</span>
+                </div>
               </div>
             </div>
-          </div>
 
-          <!-- Badges & Dropdown -->
-          <div class="flex items-center gap-2">
-            <span class="inline-flex items-center text-[11px] font-semibold px-2.5 py-0.5 rounded-full border ${tagBg}">
-              ${deal.tag}
-            </span>
-            <span class="hidden sm:inline-flex items-center text-[11px] font-medium px-2 py-0.5 rounded-full bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300">
-              ${catObj.name}
-            </span>
-            <div class="relative dropdown-container">
-              <button 
-                type="button" 
-                onclick="window.dealHubApp.toggleCardMenu('${deal.id}')"
-                class="p-1.5 rounded-lg text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition"
-                aria-label="Options"
-              >
-                <i data-lucide="more-horizontal" class="w-5 h-5"></i>
-              </button>
-              <div 
-                id="menu-${deal.id}" 
-                class="hidden absolute right-0 mt-1 w-48 bg-white dark:bg-slate-800 rounded-xl shadow-lg border border-slate-200 dark:border-slate-700 py-1 z-30 text-xs"
-              >
+            <!-- Right: Badges + Dropdown -->
+            <div class="flex items-center gap-1.5 flex-shrink-0">
+              <!-- Tag badge -->
+              <span class="inline-flex items-center text-[11px] font-bold px-2.5 py-1 rounded-lg border shadow-xs ${tagBg}">
+                ${deal.tag}
+              </span>
+              <!-- Category badge — always visible -->
+              <span class="inline-flex items-center gap-1 text-[11px] font-medium px-2.5 py-1 rounded-lg bg-slate-100/80 dark:bg-slate-700/80 text-slate-600 dark:text-slate-300 border border-slate-200/70 dark:border-slate-600/50">
+                <i data-lucide="tag" class="w-3 h-3 opacity-60"></i>
+                <span class="hidden xs:inline">${catObj.name}</span>
+                <span class="xs:hidden">${catObj.name.split(' ')[0]}</span>
+              </span>
+              <!-- 3-dot menu -->
+              <div class="relative dropdown-container">
+                <button 
+                  type="button" 
+                  onclick="window.dealHubApp.toggleCardMenu('${deal.id}')"
+                  class="p-1.5 rounded-lg text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors"
+                  aria-label="Options"
+                >
+                  <i data-lucide="more-horizontal" class="w-5 h-5"></i>
+                </button>
+                <div 
+                  id="menu-${deal.id}" 
+                  class="hidden absolute right-0 mt-1 w-48 bg-white dark:bg-slate-800 rounded-xl shadow-lg border border-slate-200 dark:border-slate-700 py-1 z-30 text-xs"
+                >
                 <button 
                   onclick="window.dealHubApp.copyAffiliateLink('${localizedLink}')"
                   class="w-full text-left px-3 py-2 text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-700/70 flex items-center gap-2"

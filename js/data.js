@@ -194,7 +194,7 @@ const INTERNATIONAL_SEO_CONFIG = {
 };
 
 // Profile Avatars & Info
-const YAHYA_AVATAR = 'public/Image.jpg';
+const YAHYA_AVATAR = '/Image.jpg';
 const FATIMA_AVATAR = 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80';
 
 const YAHYA_AUTHOR = {
@@ -302,7 +302,7 @@ const INITIAL_DEALS = [
     rating: 4.3,
     reviewsCount: 1420,
     prime: true,
-    tag: 'Hot Deal',
+    tag: 'Top Pick',
     imageUrl: 'https://m.media-amazon.com/images/I/81rbumIhr-L._AC_SL1500_.jpg',
     affiliateLink: 'https://amzn.to/3W5FX9a',
     reviewText: 'Customers find the sofa bed comfortable and appreciate its appearance, describing it as a nice addition to their living room and saying their grandkids love it. The corduroy fabric feels wonderfully soft and durable.',
