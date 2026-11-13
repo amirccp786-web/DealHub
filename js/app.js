@@ -806,7 +806,7 @@ class DealHubUI {
 
     const canonicalEl = document.getElementById('seo-canonical');
     const path = catId === 'all' ? '' : `${catId}/`;
-    if (canonicalEl) canonicalEl.setAttribute('href', `https://dealhub.com/${path}`);
+    if (canonicalEl) canonicalEl.setAttribute('href', `https://dealhubstore.vercel.app/${path}`);
 
     const keywordsEl = document.getElementById('seo-meta-keywords');
     if (keywordsEl && seo.primaryKeyword) {

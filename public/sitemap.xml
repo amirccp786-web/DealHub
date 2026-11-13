@@ -4,175 +4,175 @@
 
   <!-- Home / Global Feed -->
   <url>
-    <loc>https://dealhub.com/</loc>
+    <loc>https://dealhubstore.vercel.app/</loc>
     <lastmod>2026-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/"/>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://dealhub.com/ca/"/>
-    <xhtml:link rel="alternate" hreflang="en-au" href="https://dealhub.com/au/"/>
-    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/"/>
-    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/"/>
-    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/"/>
-    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/"/>
-    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/"/>
-    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/"/>
-    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/"/>
-    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhubstore.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhubstore.vercel.app/us/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhubstore.vercel.app/uk/"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://dealhubstore.vercel.app/ca/"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://dealhubstore.vercel.app/au/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhubstore.vercel.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhubstore.vercel.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhubstore.vercel.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhubstore.vercel.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhubstore.vercel.app/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhubstore.vercel.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhubstore.vercel.app/se/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhubstore.vercel.app/in/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhubstore.vercel.app/pk/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhubstore.vercel.app/ae/"/>
   </url>
 
   <!-- 1. Home & Kitchen -->
   <url>
-    <loc>https://dealhub.com/home-kitchen/</loc>
+    <loc>https://dealhubstore.vercel.app/home-kitchen/</loc>
     <lastmod>2026-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/home-kitchen/"/>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/home-kitchen/"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/home-kitchen/"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://dealhub.com/ca/home-kitchen/"/>
-    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/heissluftfritteuse-kueche/"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/friteuse-sans-huile-cuisine/"/>
-    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/friggitrice-ad-aria-cucina/"/>
-    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/freidora-de-aire-cocina/"/>
-    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/heteluchtfriteuse-keuken/"/>
-    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/frytkownica-beztluszczowa-kuchnia/"/>
-    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/varmluftsfritos-kok/"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/home-kitchen/"/>
-    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/home-kitchen/"/>
-    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/home-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhubstore.vercel.app/home-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhubstore.vercel.app/us/home-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhubstore.vercel.app/uk/home-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://dealhubstore.vercel.app/ca/home-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhubstore.vercel.app/de/heissluftfritteuse-kueche/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhubstore.vercel.app/fr/friteuse-sans-huile-cuisine/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhubstore.vercel.app/it/friggitrice-ad-aria-cucina/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhubstore.vercel.app/es/freidora-de-aire-cocina/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhubstore.vercel.app/nl/heteluchtfriteuse-keuken/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhubstore.vercel.app/pl/frytkownica-beztluszczowa-kuchnia/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhubstore.vercel.app/se/varmluftsfritos-kok/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhubstore.vercel.app/in/home-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhubstore.vercel.app/pk/home-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhubstore.vercel.app/ae/home-kitchen/"/>
   </url>
 
   <!-- 2. Women's Fashion -->
   <url>
-    <loc>https://dealhub.com/womens-fashion/</loc>
+    <loc>https://dealhubstore.vercel.app/womens-fashion/</loc>
     <lastmod>2026-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/womens-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/womens-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/womens-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://dealhub.com/ca/womens-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/damenmode/"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/mode-femme/"/>
-    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/moda-donna/"/>
-    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/moda-mujer/"/>
-    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/dameskleding/"/>
-    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/moda-damska/"/>
-    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/dammode/"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/womens-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/womens-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/womens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhubstore.vercel.app/womens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhubstore.vercel.app/us/womens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhubstore.vercel.app/uk/womens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://dealhubstore.vercel.app/ca/womens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhubstore.vercel.app/de/damenmode/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhubstore.vercel.app/fr/mode-femme/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhubstore.vercel.app/it/moda-donna/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhubstore.vercel.app/es/moda-mujer/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhubstore.vercel.app/nl/dameskleding/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhubstore.vercel.app/pl/moda-damska/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhubstore.vercel.app/se/dammode/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhubstore.vercel.app/in/womens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhubstore.vercel.app/pk/womens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhubstore.vercel.app/ae/womens-fashion/"/>
   </url>
 
   <!-- 3. Men's Fashion -->
   <url>
-    <loc>https://dealhub.com/mens-fashion/</loc>
+    <loc>https://dealhubstore.vercel.app/mens-fashion/</loc>
     <lastmod>2026-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/mens-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/mens-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/mens-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://dealhub.com/ca/mens-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/herrenmode/"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/mode-homme/"/>
-    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/moda-uomo/"/>
-    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/moda-hombre/"/>
-    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/herenkleding/"/>
-    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/moda-meska/"/>
-    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/herrmode/"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/mens-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/mens-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/mens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhubstore.vercel.app/mens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhubstore.vercel.app/us/mens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhubstore.vercel.app/uk/mens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://dealhubstore.vercel.app/ca/mens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhubstore.vercel.app/de/herrenmode/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhubstore.vercel.app/fr/mode-homme/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhubstore.vercel.app/it/moda-uomo/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhubstore.vercel.app/es/moda-hombre/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhubstore.vercel.app/nl/herenkleding/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhubstore.vercel.app/pl/moda-meska/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhubstore.vercel.app/se/herrmode/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhubstore.vercel.app/in/mens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhubstore.vercel.app/pk/mens-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhubstore.vercel.app/ae/mens-fashion/"/>
   </url>
 
   <!-- 4. Girl's Fashion -->
   <url>
-    <loc>https://dealhub.com/girls-fashion/</loc>
+    <loc>https://dealhubstore.vercel.app/girls-fashion/</loc>
     <lastmod>2026-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/girls-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/girls-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/girls-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/maedchen-kleidung/"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/vetements-fille/"/>
-    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/abbigliamento-bambina/"/>
-    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/ropa-nina/"/>
-    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/meisjeskleding/"/>
-    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/ubrania-dziewczece/"/>
-    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/flickklader/"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/girls-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/girls-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/girls-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhubstore.vercel.app/girls-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhubstore.vercel.app/us/girls-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhubstore.vercel.app/uk/girls-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhubstore.vercel.app/de/maedchen-kleidung/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhubstore.vercel.app/fr/vetements-fille/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhubstore.vercel.app/it/abbigliamento-bambina/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhubstore.vercel.app/es/ropa-nina/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhubstore.vercel.app/nl/meisjeskleding/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhubstore.vercel.app/pl/ubrania-dziewczece/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhubstore.vercel.app/se/flickklader/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhubstore.vercel.app/in/girls-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhubstore.vercel.app/pk/girls-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhubstore.vercel.app/ae/girls-fashion/"/>
   </url>
 
   <!-- 5. Boy's Fashion -->
   <url>
-    <loc>https://dealhub.com/boys-fashion/</loc>
+    <loc>https://dealhubstore.vercel.app/boys-fashion/</loc>
     <lastmod>2026-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/boys-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/boys-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/boys-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/jungen-kleidung/"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/vetements-garcon/"/>
-    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/abbigliamento-bambino/"/>
-    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/ropa-nino/"/>
-    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/jongenskleding/"/>
-    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/ubrania-chlopiece/"/>
-    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/pojkklader/"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/boys-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/boys-fashion/"/>
-    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/boys-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhubstore.vercel.app/boys-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhubstore.vercel.app/us/boys-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhubstore.vercel.app/uk/boys-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhubstore.vercel.app/de/jungen-kleidung/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhubstore.vercel.app/fr/vetements-garcon/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhubstore.vercel.app/it/abbigliamento-bambino/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhubstore.vercel.app/es/ropa-nino/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhubstore.vercel.app/nl/jongenskleding/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhubstore.vercel.app/pl/ubrania-chlopiece/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhubstore.vercel.app/se/pojkklader/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhubstore.vercel.app/in/boys-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhubstore.vercel.app/pk/boys-fashion/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhubstore.vercel.app/ae/boys-fashion/"/>
   </url>
 
   <!-- 6. Electronics -->
   <url>
-    <loc>https://dealhub.com/electronic/</loc>
+    <loc>https://dealhubstore.vercel.app/electronic/</loc>
     <lastmod>2026-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.95</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/electronic/"/>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/electronic/"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/electronic/"/>
-    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/elektronik-kopfhoerer/"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/electronique-ecouteurs/"/>
-    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/elettronica-cuffie/"/>
-    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/electronica-auriculares/"/>
-    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/elektronica-oordopjes/"/>
-    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/elektronika-sluchawki/"/>
-    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/elektronik-horlurar/"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/electronic/"/>
-    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/electronic/"/>
-    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/electronic/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhubstore.vercel.app/electronic/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhubstore.vercel.app/us/electronic/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhubstore.vercel.app/uk/electronic/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhubstore.vercel.app/de/elektronik-kopfhoerer/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhubstore.vercel.app/fr/electronique-ecouteurs/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhubstore.vercel.app/it/elettronica-cuffie/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhubstore.vercel.app/es/electronica-auriculares/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhubstore.vercel.app/nl/elektronica-oordopjes/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhubstore.vercel.app/pl/elektronika-sluchawki/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhubstore.vercel.app/se/elektronik-horlurar/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhubstore.vercel.app/in/electronic/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhubstore.vercel.app/pk/electronic/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhubstore.vercel.app/ae/electronic/"/>
   </url>
 
   <!-- 7. Health Care -->
   <url>
-    <loc>https://dealhub.com/health-care/</loc>
+    <loc>https://dealhubstore.vercel.app/health-care/</loc>
     <lastmod>2026-11-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhub.com/health-care/"/>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhub.com/us/health-care/"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhub.com/uk/health-care/"/>
-    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhub.com/de/gesundheit-blutdruckmessgeraet/"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhub.com/fr/sante-tensiometre/"/>
-    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhub.com/it/salute-misuratore-pressione/"/>
-    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhub.com/es/salud-tensimetro/"/>
-    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhub.com/nl/gezondheid-bloeddrukmeter/"/>
-    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhub.com/pl/zdrowie-cisnieniomierz/"/>
-    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhub.com/se/halsa-blodtrycksmatare/"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhub.com/in/health-care/"/>
-    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhub.com/pk/health-care/"/>
-    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhub.com/ae/health-care/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dealhubstore.vercel.app/health-care/"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://dealhubstore.vercel.app/us/health-care/"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://dealhubstore.vercel.app/uk/health-care/"/>
+    <xhtml:link rel="alternate" hreflang="de-de" href="https://dealhubstore.vercel.app/de/gesundheit-blutdruckmessgeraet/"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://dealhubstore.vercel.app/fr/sante-tensiometre/"/>
+    <xhtml:link rel="alternate" hreflang="it-it" href="https://dealhubstore.vercel.app/it/salute-misuratore-pressione/"/>
+    <xhtml:link rel="alternate" hreflang="es-es" href="https://dealhubstore.vercel.app/es/salud-tensimetro/"/>
+    <xhtml:link rel="alternate" hreflang="nl-nl" href="https://dealhubstore.vercel.app/nl/gezondheid-bloeddrukmeter/"/>
+    <xhtml:link rel="alternate" hreflang="pl-pl" href="https://dealhubstore.vercel.app/pl/zdrowie-cisnieniomierz/"/>
+    <xhtml:link rel="alternate" hreflang="sv-se" href="https://dealhubstore.vercel.app/se/halsa-blodtrycksmatare/"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://dealhubstore.vercel.app/in/health-care/"/>
+    <xhtml:link rel="alternate" hreflang="en-pk" href="https://dealhubstore.vercel.app/pk/health-care/"/>
+    <xhtml:link rel="alternate" hreflang="en-ae" href="https://dealhubstore.vercel.app/ae/health-care/"/>
   </url>
 
 </urlset>
