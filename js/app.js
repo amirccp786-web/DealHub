@@ -8,7 +8,7 @@
 // -------------------------------------------------------------
 class DealStore {
   constructor() {
-    this.STORAGE_KEY = 'dealhub_deals_v12';
+    this.STORAGE_KEY = 'dealhub_deals_v13';
     this.THEME_KEY = 'dealhub_theme';
     this.REGION_KEY = 'dealhub_region';
     this.deals = this.loadDeals();
@@ -22,6 +22,7 @@ class DealStore {
   loadDeals() {
     const BACKUP_KEY = 'dealhub_user_posts_backup';
     const KNOWN_KEYS = [
+      'dealhub_deals_v13',
       'dealhub_deals_v12',
       'dealhub_deals_v11',
       'dealhub_deals_v10',
@@ -963,49 +964,51 @@ class DealHubUI {
         class="deal-card bg-white dark:bg-slate-800 rounded-2xl border border-slate-200/90 dark:border-slate-700/80 shadow-sm hover:shadow-md transition-all duration-200 overflow-hidden mb-6"
       >
         <!-- CARD HEADER -->
-        <div class="px-4 pt-4 pb-3 sm:px-5 sm:pt-5 sm:pb-4 border-b border-slate-100 dark:border-slate-700/60">
-          <div class="flex items-start justify-between gap-2">
+        <div class="px-4 pt-3.5 pb-3 sm:px-5 sm:pt-4 sm:pb-3.5 border-b border-slate-100 dark:border-slate-700/60">
+          <!-- Top Row: Author on left, 3-dots on right (plus badges on desktop) -->
+          <div class="flex items-center justify-between gap-2.5">
 
             <!-- Left: Avatar + Author info -->
-            <div class="flex items-center gap-3 min-w-0">
+            <div class="flex items-center gap-2.5 sm:gap-3 min-w-0 flex-1">
               <div class="relative flex-shrink-0">
                 <img 
                   src="${deal.author.avatar}" 
                   alt="${deal.author.name}" 
-                  class="w-11 h-11 rounded-full object-cover ring-2 ring-white dark:ring-slate-700 shadow-sm"
+                  class="w-10 h-10 rounded-full object-cover ring-2 ring-slate-100 dark:ring-slate-700 shadow-2xs"
                   loading="lazy"
                 />
                 ${deal.author.verified ? `
-                  <span class="absolute -bottom-0.5 -right-0.5 bg-blue-500 rounded-full p-0.5 ring-1 ring-white dark:ring-slate-800">
+                  <span class="absolute -bottom-0.5 -right-0.5 bg-blue-500 rounded-full p-0.5 ring-1 ring-white dark:ring-slate-800" title="Verified Curator">
                     <i data-lucide="check" class="w-2.5 h-2.5 text-white stroke-[3]"></i>
                   </span>
                 ` : ''}
               </div>
-              <div class="min-w-0">
-                <div class="flex items-center gap-1.5 flex-wrap">
-                  <span class="font-bold text-sm text-slate-900 dark:text-slate-100 leading-tight">${deal.author.name}</span>
+              <div class="min-w-0 flex-1">
+                <div class="flex items-center gap-1.5">
+                  <span class="font-bold text-sm text-slate-900 dark:text-slate-100 truncate">${deal.author.name}</span>
                 </div>
-                <div class="flex items-center gap-1.5 mt-0.5 flex-wrap">
-                  <span class="text-[11px] text-slate-400 dark:text-slate-500 font-medium">${deal.author.handle}</span>
+                <div class="flex items-center gap-1.5 text-[11px] text-slate-400 dark:text-slate-500 mt-0.5">
+                  <span class="truncate">${deal.author.handle}</span>
                   <span class="text-slate-300 dark:text-slate-600 text-[10px]">•</span>
-                  <span class="text-[11px] text-slate-400 dark:text-slate-500">${deal.timestamp}</span>
+                  <span class="flex-shrink-0">${deal.timestamp}</span>
                 </div>
               </div>
             </div>
 
-            <!-- Right: Badges + Dropdown -->
-            <div class="flex items-center gap-1.5 flex-shrink-0">
-              <!-- Tag badge -->
-              <span class="inline-flex items-center text-[11px] font-bold px-2.5 py-1 rounded-lg border shadow-xs ${tagBg}">
-                ${deal.tag}
-              </span>
-              <!-- Category badge — always visible -->
-              <span class="inline-flex items-center gap-1 text-[11px] font-medium px-2.5 py-1 rounded-lg bg-slate-100/80 dark:bg-slate-700/80 text-slate-600 dark:text-slate-300 border border-slate-200/70 dark:border-slate-600/50">
-                <i data-lucide="tag" class="w-3 h-3 opacity-60"></i>
-                <span class="hidden xs:inline">${catObj.name}</span>
-                <span class="xs:hidden">${catObj.name.split(' ')[0]}</span>
-              </span>
-              <!-- 3-dot menu -->
+            <!-- Right: Badges on sm+ screens, plus 3-dot menu -->
+            <div class="flex items-center gap-1.5 sm:gap-2 flex-shrink-0">
+              <!-- Desktop Badges (hidden on mobile, visible on sm+) -->
+              <div class="hidden sm:flex items-center gap-1.5">
+                <span class="inline-flex items-center text-[11px] font-bold px-2.5 py-1 rounded-lg border shadow-2xs ${tagBg}">
+                  ${deal.tag}
+                </span>
+                <span class="inline-flex items-center gap-1 text-[11px] font-medium px-2.5 py-1 rounded-lg bg-slate-100/90 dark:bg-slate-700/80 text-slate-600 dark:text-slate-300 border border-slate-200/70 dark:border-slate-600/50">
+                  <i data-lucide="tag" class="w-3 h-3 opacity-60"></i>
+                  ${catObj.name}
+                </span>
+              </div>
+
+              <!-- 3-dot dropdown menu button -->
               <div class="relative dropdown-container">
                 <button 
                   type="button" 
@@ -1019,22 +1022,35 @@ class DealHubUI {
                   id="menu-${deal.id}" 
                   class="hidden absolute right-0 mt-1 w-48 bg-white dark:bg-slate-800 rounded-xl shadow-lg border border-slate-200 dark:border-slate-700 py-1 z-30 text-xs"
                 >
-                <button 
-                  onclick="window.dealHubApp.copyAffiliateLink('${localizedLink}')"
-                  class="w-full text-left px-3 py-2 text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-700/70 flex items-center gap-2"
-                >
-                  <i data-lucide="copy" class="w-3.5 h-3.5"></i>
-                  Copy Amazon Link (${market.domain})
-                </button>
-                <button 
-                  onclick="window.dealHubApp.shareDealCard('${deal.id}', '${encodeURIComponent(deal.title)}')"
-                  class="w-full text-left px-3 py-2 text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-700/70 flex items-center gap-2"
-                >
-                  <i data-lucide="share-2" class="w-3.5 h-3.5"></i>
-                  Share Deal Post
-                </button>
+                  <button 
+                    onclick="window.dealHubApp.copyAffiliateLink('${localizedLink}')"
+                    class="w-full text-left px-3 py-2 text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-700/70 flex items-center gap-2"
+                  >
+                    <i data-lucide="copy" class="w-3.5 h-3.5"></i>
+                    Copy Amazon Link (${market.domain})
+                  </button>
+                  <button 
+                    onclick="window.dealHubApp.shareDealCard('${deal.id}', '${encodeURIComponent(deal.title)}')"
+                    class="w-full text-left px-3 py-2 text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-700/70 flex items-center gap-2"
+                  >
+                    <i data-lucide="share-2" class="w-3.5 h-3.5"></i>
+                    Share Deal Post
+                  </button>
+                </div>
               </div>
             </div>
+
+          </div>
+
+          <!-- Mobile Badges Row: Displays cleanly under author on phones with zero overlap -->
+          <div class="flex sm:hidden items-center gap-1.5 mt-2.5 pt-2 border-t border-slate-100/90 dark:border-slate-700/50">
+            <span class="inline-flex items-center text-[10px] font-bold px-2 py-0.5 rounded-md border shadow-2xs ${tagBg}">
+              ${deal.tag}
+            </span>
+            <span class="inline-flex items-center gap-1 text-[10px] font-medium px-2 py-0.5 rounded-md bg-slate-100/90 dark:bg-slate-700/70 text-slate-600 dark:text-slate-300 border border-slate-200/70 dark:border-slate-600/50">
+              <i data-lucide="tag" class="w-3 h-3 opacity-60"></i>
+              ${catObj.name}
+            </span>
           </div>
         </div>
 
