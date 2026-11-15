@@ -8,7 +8,7 @@
 // -------------------------------------------------------------
 class DealStore {
   constructor() {
-    this.STORAGE_KEY = 'dealhub_deals_v13';
+    this.STORAGE_KEY = 'dealhub_deals_v14';
     this.THEME_KEY = 'dealhub_theme';
     this.REGION_KEY = 'dealhub_region';
     this.deals = this.loadDeals();
@@ -22,6 +22,7 @@ class DealStore {
   loadDeals() {
     const BACKUP_KEY = 'dealhub_user_posts_backup';
     const KNOWN_KEYS = [
+      'dealhub_deals_v14',
       'dealhub_deals_v13',
       'dealhub_deals_v12',
       'dealhub_deals_v11',
