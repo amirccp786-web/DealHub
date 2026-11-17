@@ -1,3 +1,4 @@
+
 Post # 1 
 
 <mark>Title: CUBIOU Folding Sofa Bed, Convertible Sleeper Chair, Corduroy Boneless Couch</mark> Category: Home and Kitchen Price: 169.99 Original Price: 169.99 Amazon Link: **<u><mark>https://amzn.to/3W5FX9a</mark></u>** Image URL: https://m.media-amazon.com/images/I/81rbumIhr-L._AC_SL1500_.jpg Tag: Top Pick Rating: 4.3 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Customers find the sofa bed comfortable and appreciate its appearance, describing it as a nice addition to their living room and saying their grandkids love it. The corduroy fabric feels wonderfully soft and durable.</mark> 
@@ -26,11 +27,11 @@ Post # 1
 
 # Post # 7 
 
-<mark>Title: PULI Women's Pashmina Shawl Wrap, Large Bridal Evening & Winter Scarf Category: Women’s Fashion Price: 32.99</mark> Original Price: 32.99 Amazon Link: **<u><mark>https://link.amazon/B09YOneKg</mark></u>** 
+<mark>Title: PULI Women's Pashmina Shawl Wrap, Large Bridal Evening & Winter Scarf Category: Women’s Fashion Price: 32.99</mark> Original Price: 32.99 Amazon Link: **<u><mark>https://link.amazon/B09YOneKg</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/81KoHO9RGmL._AC_SX569_.jpg 
 
-Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/81KoHO9RGmL._AC_SX569_.jpg Tag: Trending Rating: 4.5 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Luxuriously thick, buttery soft wrap with a cashmere-like feel. Extremely versatile for evening weddings, casual cool-weather layering, or keeping warm during chilly flights.</mark> 
+Tag: Trending Rating: 4.5 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Luxuriously thick, buttery soft wrap with a cashmere-like feel. Extremely versatile for evening weddings, casual cool-weather layering, or keeping warm during chilly flights.</mark> 
 
-Post # 8 
+# Post # 8 
 
 **<mark>Title:</mark>** <mark>Large Gold Framed 3-Piece Abstract Wave Wall Art Set for Living Room Category: Home and Kitchen Price: 119.99</mark> Original Price: 119.99 Amazon Link: **<u><mark>https://link.amazon/B02FgazPZ</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/8137Df7wVBL._AC_SL1500_.jpg Tag: Top Pick Rating: 4.8 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Stunning 3-piece framed wave triptych that creates an immediate gallery-grade focal point above living room sofas or headboards. Rich golden tones catch lighting with upscale modern elegance.</mark> 
 
@@ -38,11 +39,9 @@ Post # 8
 
 <mark>Title: Blue Gold Ocean Abstract Canvas Wall Art Décor (20"x40" Horizontal Print) Category: Home and Kitchen Price: 59.99</mark> Original Price: 59.99 Amazon Link: **<u><mark>https://link.amazon/B0hATrk47</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/81zpCvah+eL._AC_SL1500_.jpg Tag: Top Pick Rating: 4.6 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Dramatic, swirling brushstrokes of ocean deep blues and shimmering gold accents. A bold statement piece designed to bring warmth and sophistication to contemporary living rooms.</mark> 
 
-Post # 10 
+# Post # 10 
 
-<mark>Title: Sony WH-1000XM5 Premium Noise Cancelling Wireless Headphones (Smoke Pink) Category: Electronic Price: 199.99</mark> Original Price: 399.99 Amazon Link: **<u><mark>https://link.amazon/B01x6QHZ7</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/51A17cIdhKL._AC_SL1080_.jpg Tag: Hot Deal Rating: 4.2 
-
-Prime: yes Tracking ID: fatimasstudios-20 
+<mark>Title: Sony WH-1000XM5 Premium Noise Cancelling Wireless Headphones (Smoke Pink) Category: Electronic Price: 199.99</mark> Original Price: 399.99 Amazon Link: **<u><mark>https://link.amazon/B01x6QHZ7</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/51A17cIdhKL._AC_SL1080_.jpg Tag: Hot Deal Rating: 4.2 Prime: yes Tracking ID: fatimasstudios-20 
 
 Reviews: <mark>Flagship active noise cancellation featuring an ultra-comfortable lightweight headband, distinctive smoky pink finish, 30-hour battery life, and crystal-clear hands-free microphone quality</mark> . 
 
@@ -50,15 +49,15 @@ Post # 11
 
 <mark>Title: Ninja AF101 Air Fryer, 4 Quart Capacity, 4-in-1 Ceramic Coated Nonstick Basket Category: Home and Kitchen Price: 119.00</mark> Original Price: 119.00 Amazon Link: **<u><mark>https://link.amazon/B0aIjDkX2</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/719b2ik3wOL._AC_SL1500_.jpg Tag: Best Value Rating: 4.7 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Cuts cooking times in half while delivering crisp, golden results with up to 75% less fat than deep frying. The nonstick ceramic basket cleans effortlessly in seconds.</mark> 
 
-# Post # 12 
+Post # 12 
 
 <mark>Title: Jersey Pashmina Shawl Wraps for Women | USA Made Travel Scarf Category: Women’s Fashion Price: 48.00</mark> Original Price: 48.00 Amazon Link: **<u><mark>https://link.amazon/B024XvEdS</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/61D07CpoLCL._AC_SX679_.jpg Tag: Trending Rating: 4.6 Prime: yes Tracking ID: yahyaamir786-20 Reviews: <mark>Beloved by frequent travelers for its buttery softness and versatility. Rolls up compact enough for small totes, yet unfolds generously to keep you warm on chilly airplane flights.</mark> 
 
-# Post # 13 
+Post # 13 
 
 <mark>Title: Android 16 Tablet with Keyboard, 10.1 Inch AI Tablet, 32GB RAM, 256GB Category: Electronic Price: 129.99</mark> Original Price: 179.99 Amazon Link: **<u><mark>https://link.amazon/B077iSmgH</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/91y6sn0qM9L._AC_SL1500_.jpg Tag: Hot Deal Rating: 4.4 Prime: yes Tracking ID: yahyaamir786-20 Reviews: <mark>High-value 2-in-1 productivity package featuring an expansive 10.1-inch IPS display, responsive keyboard bundle, generous 256GB storage, and zero-lag streaming performance.</mark> 
 
-# Post # 14 
+Post # 14 
 
 <mark>Title: Flagship 15.6" Business Laptop Computer, 16GB RAM 512GB Fast SSD, Intel Core i5 Category: Electronic Price: 599.99</mark> Original Price: 599.99 Amazon Link: **<u><mark>https://link.amazon/B012oMI9x</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/71jpKhLiXcL._AC_SL1500_.jpg Tag: Best Value Rating: 4.4 Prime: yes Tracking ID: yahyaamir786-20 Reviews: <mark>Engineered for smooth everyday business workflows, multitasking, and browsing. Offers 16GB memory, 512GB SSD storage, an ergonomic keyboard, and anti-glare screen for long work sessions.</mark> 
 
@@ -72,25 +71,53 @@ Post # 11
 
 # Post # 17 
 
-<mark>Title: TATCHA Indigo Overnight Repair, Redness-Reducing Barrier Cream Category: Women’s Fashion</mark> 
+<mark>Title: TATCHA Indigo Overnight Repair, Redness-Reducing Barrier Cream Category: Women’s Fashion Price: 94.00</mark> Original Price: 94.00 
 
-<mark>Price: 94.00</mark> Original Price: 94.00 Amazon Link: **<u><mark>https://link.amazon/B087Ued7D</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/613LBSJkG6L._SL1500_.jpg Tag: Top Pick Rating: 4.6 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Customers find this skin cream effective and appreciate its moisturizing properties, particularly how it keeps skin soft during harsh winters and helps with cold and dry conditions. They describe the texture as luxurious, feeling like butter on the skin, and like its extremely mild scent. The cream receives mixed feedback about its consistency, with some finding it thick.</mark> 
+Amazon Link: **<u><mark>https://link.amazon/B087Ued7D</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/613LBSJkG6L._SL1500_.jpg Tag: Top Pick Rating: 4.6 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Customers find this skin cream effective and appreciate its moisturizing properties, particularly how it keeps skin soft during harsh winters and helps with cold and dry conditions. They describe the texture as luxurious, feeling like butter on the skin, and like its extremely mild scent.</mark> 
 
-# Post # 18 
+Post # 18 
 
-<mark>Title: Kiehl's - Ultra Facial Cream Daily Moisturizer with 4.5% Squalene Category: Women’s Fashion Price: 39.00</mark> Original Price: 39.00 Amazon Link: **<u><mark>https://link.amazon/B09TywcYj</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/81slPLf8YYL._SL1500_.jpg Tag: Best Value Rating: 4.7 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Customers find this moisturizer effective and deeply hydrating, with a smooth texture that absorbs quickly without leaving a greasy residue. They appreciate that it's not scented and is lightweight, with one customer noting it feels like Botox in a bottle. While some customers report it doesn't irritate their skin.</mark> 
+<mark>Title: Kiehl's - Ultra Facial Cream Daily Moisturizer with 4.5% Squalene Category: Women’s Fashion Price: 39.00</mark> Original Price: 39.00 Amazon Link: **<u><mark>https://link.amazon/B09TywcYj</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/81slPLf8YYL._SL1500_.jpg Tag: Best Value Rating: 4.7 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Customers find this moisturizer effective and deeply hydrating, with a smooth texture that absorbs quickly without leaving a greasy residue. They appreciate that it is unscented, lightweight, and gentle on sensitive skin.</mark> 
 
-# Post # 19 
+Post # 19 <mark>Title: Women’s Silk Pajamas Floral Button Up Long Sleeve Satin Pj Sets Category: Women’s Fashion Price: 35.99</mark> Original Price: 35.99 Amazon Link: **<u><mark>https://link.amazon/B0gqOgc7I</mark></u>** Image URL: https://m.media-amazon.com/images/I/71A7BQtneFL._AC_AIweblab1392912,T3_FMavif_SF659,879_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Trending Rating: 4.5 Prime: yes Tracking ID: fatimasstudios-20 Reviews: Silky, soft satin with a beautiful floral pattern and classic button-down long sleeves. The fit is true to size, comfortable for lounging or sleeping, and washes and dries beautifully in the dryer. 
 
-<mark>Title: Women’s Silk Pajamas Floral Button Up Long Sleeve Satin Pj Sets Category: Women’s Fashion Price: 35.99</mark> Original Price: 35.99 Amazon Link: **<u><mark>https://link.amazon/B0gqOgc7I</mark></u>** Image URL: https://m.media-amazon.com/images/I/71A7BQtneFL._AC_AIweblab1392912,T3_FMavif_SF659,879_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Trending Rating: 4.5 Prime: yes Tracking ID: fatimasstudios-20 Reviews: The design draws praise, the fit is accurate, and the fabric stays silky, soft, and beautiful floral pattern with side stripes and long tail design. These are lovely pajamas. For average height, they will be fine. For tall women, they will look slightly cropped, like ankle pants. But they will probably work for most heights. They wash and dry in the dryer beautifully. Easy care as well. 
+Post # 20 
 
-# Post # 20 
+Title: Simple Modern Travel Coffee Mug with Lid Category: Home and Kitchen <mark>Price: 22.99</mark> Original Price: 22.99 Amazon Link: **<u><mark>https://link.amazon/B08k2EkgK</mark></u>** 
 
-Title: Simple Modern Travel Coffee Mug with Lid 
+Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/61v84HaqUyL._AC_SL1500_.jpg Tag: Best Value Rating: 4.7 Prime: yes Tracking ID: yahyaamir786-20 Reviews: <mark>Keeps drinks hot or ice-cold for hours, 100% leak-proof, and fits smoothly in standard car cup holders. Durable, easy to hold, and dishwasher safe for effortless daily cleaning.</mark> 
 
-Category: Home and Kitchen <mark>Price: 22.99</mark> Original Price: 22.99 Amazon Link: **<u><mark>https://link.amazon/B08k2EkgK</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/61v84HaqUyL._AC_SL1500_.jpg Tag: Best Value Rating: 4.7 Prime: yes Tracking ID: yahyaamir786-20 Reviews: <mark>Customers find the travel mug keeps drinks hot and cold for extended periods, is leak-proof, and fits nicely in car cup holders. They appreciate its size, noting it's perfect for travel and easy to hold, and like its color options. The durability and lid functionality receive mixed reviews - while it holds up well in the dishwasher, and it seals tightly.</mark> 
+# Post # 21 
 
-Post # 21 <mark>Title: DUMOS 64"x21" Arched Full Length Mirror with Stand</mark> Category: Home and Kitchen <mark>Price: 48.97</mark> Original Price: 48.97 Amazon Link: **<u><mark>https://link.amazon/B08ELEcBZ</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/81GZCjrzsfL._AC_SL1500_.jpg Tag: Trending Rating: 4.7 Prime: yes Tracking ID: yahyaamir786-20 
+<mark>Title: DUMOS 64"x21" Arched Full Length Mirror with Stand</mark> Category: Home and Kitchen <mark>Price: 48.97</mark> Original Price: 48.97 Amazon Link: **<u><mark>https://link.amazon/B08ELEcBZ</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/81GZCjrzsfL._AC_SL1500_.jpg Tag: Trending Rating: 4.7 Prime: yes Tracking ID: yahyaamir786-20 Reviews: <mark>Full-length arched body mirror featuring a solid aluminum alloy frame, crystal-clear distortion-free HD reflection, and versatile sturdy standing or wall-leaning setup.</mark> 
 
-Reviews: The mirror looks really nice and is a great size for seeing your whole body. The size is a strong point and everyday use works well. The arched design gives it a more stylish look than a basic full-length mirror, and the stand makes it easy to place wherever you need it. The reflection is clear and the frame feels pretty solid. It was also easy to set up. Overall, it looks great and feels like a nice upgrade for the room. 
+# Post # 22 
+
+<mark>Title: Ring Floodlight Cam 2K (newest model), Wide-angle Retinal video, White Category: Home and Kitchen Price: 99.99</mark> Original Price: 199.99 Amazon Link: **<mark>https://link.amazon/B09Vl8gpU</mark>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/71ZIEsZMfNL._SL1500_.jpg Tag: Hot Deal Rating: 4.6 Prime: yes Tracking ID: yahyaamir786-20 Reviews: <mark>Customers praise the floodlight cam's picture-perfect video quality, adjustable brightness, and two-way communication capabilities. They appreciate its security features, with one customer noting it alerts them when</mark> someone approaches the front door, and find it well worth the money. The lighting functionality receives mixed feedback - while many like that it activates when motion is detected. 
+
+Post # 23 
+
+Title: DREAM PAIRS Women's Pumps Kitten Slingback Low Closed Heels <mark>Category: Women’s Fashion Price: 31.34</mark> Original Price: 32.99 Amazon Link: **<u><mark>https://link.amazon/B0hqfdwbw</mark></u>** 
+
+Image URL: https://m.media-amazon.com/images/I/61QEfCR3+GL._AC_AIweblab1392912,T3_FMavif_SF695,695_PQ70 _.jpg?aicid=detailPage-mediaBlock Tag: Top Pick Rating: 4.0 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Dream pairs! They are very pretty, beautifully glossy, and most important incredibly comfortable. May</mark> worn them to the offices. They are true to size. Great pricing.  The shoe is not leather, but you love it. The pointed toe and delicate kitten heel look so sophisticated, and the slingback is the icing on the cake. 
+
+<mark>Post # 24</mark> 
+
+<mark>Title: SUUKSESS Cashmere Blend Turtle Neck Sweaters Long Sleeve Pullover Tops Category: Women’s Fashion Price: 42.95</mark> Original Price: 79.99 Amazon Link: **<u><mark>https://link.amazon/B01Tnd7gF</mark></u>** Image URL: https://m.media-amazon.com/images/I/61iyWR2b8aL._AC_AIweblab1392912,T3_FMavif_SF679,849_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Hot Deal Rating: 4.2 Prime: yes Tracking ID: fatimasstudios-20 Reviews: Customer chose cashmere-blend sweater because of rich wine-red color—a beautiful, true burgundy— and the lightweight knit makes it particularly nice for transitional weather. The cashmere-blend fabric initially feels quite soft and pleasant against the skin. The perfect fitting turtle neck, with a beautiful, sophisticated feel. The cashmere blend feels soft and comfortable against the skin. The quality is great and impressed to have a cashmere blend sweater at this price point. 
+
+Post # 25 
+
+<mark>Title: Women's Slip-on Penny Loafers Soft Dress Flats Category: Women’s Fashion Price: 32.99</mark> Original Price: 32.99 Amazon Link: **<u><mark>https://link.amazon/B0cdmq8aD</mark></u>** Image URL: https://m.media-amazon.com/images/I/71Q7imzaAyL._AC_AIweblab1392912,T3_FMavif_SF556,695_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Trending Rating: 4.3 Prime: yes Tracking ID: fatimasstudios-20 Reviews: The Comfortable feel and true-to-size fit are a strong point, and the looks draw praise, though nice arch support underfoot. Cute and stylish they look with casual or business attire. The lightweight, breathable material. They go with skirts, pants, and jeans. 
+
+Post # 26 
+
+<mark>Title: Bolerose Formal Puff Sleeve Satin Bolero Jacket</mark> 
+
+<mark>Category: Women’s Fashion Price: 44.98</mark> Original Price: 44.989 Amazon Link: **<u><mark>https://link.amazon/B0aHBRGhk</mark></u>** Image URL: https://m.media-amazon.com/images/I/71xveIGEE1L._AC_AIweblab1392912,T3_FMavif_SF679,849_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Best value Rating: 4.1 Prime: yes Tracking ID: fatimasstudios-20 Reviews: Customers find the bolero shrug to be a great little jacket that looks expensive and is made well. The <mark>satin fabric is luxurious, and it fits perfectly, making it perfect for wearing with wedding dresses. It is true to size</mark> and opinions about the color are also good. 
+
+Post # 27 
+
+<mark>Title: Dreamsoft Travel Scarf, Wrap and Shawl for Women, Organic Cotton Category: Women’s Fashion Price: 50.00</mark> Original Price: 75.00 Amazon Link: **<u><mark>https://link.amazon/B0bO6xi5h</mark></u>** Image URL: https://m.media-amazon.com/images/I/7197L9+S4pL._AC_AIweblab1392912,T3_FMavif_SF571,879_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Hot Deal Rating: 4.5 Prime: yes Tracking ID: fatimasstudios-20 Reviews: The Softness and warmth are a strong point and versatility is a plus, though easy care. The shawl fabric is soft, warm but not hot. It can be worn: as a scarf, a wrap, or a light blanket. It looks is elegant and stylish. The lightweight feel, which packs easily in a carry-on. It washes well in the machine. 
+
+
 
