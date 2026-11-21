@@ -193,7 +193,7 @@ class DealStore {
       : (window.YAHYA_AUTHOR || {
           name: 'Yahya Amir Anwer',
           handle: '@yahyaamir',
-          avatar: 'public/Image.jpg',
+          avatar: '/Image.jpg',
           verified: true
         });
 
@@ -1018,10 +1018,11 @@ class DealHubUI {
             <div class="flex items-center gap-2.5 sm:gap-3 min-w-0 flex-1">
               <div class="relative flex-shrink-0">
                 <img 
-                  src="${deal.author.avatar}" 
-                  alt="${deal.author.name}" 
+                  src="${deal.author?.avatar || '/Image.jpg'}" 
+                  alt="${deal.author?.name || 'Curator'}" 
                   class="w-10 h-10 rounded-full object-cover ring-2 ring-slate-100 dark:ring-slate-700 shadow-2xs"
                   loading="lazy"
+                  onerror="this.onerror=null; if(this.src.indexOf('public')===-1){this.src='public/Image.jpg';}else{this.src='https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80';}"
                 />
                 ${deal.author.verified ? `
                   <span class="absolute -bottom-0.5 -right-0.5 bg-blue-500 rounded-full p-0.5 ring-1 ring-white dark:ring-slate-800" title="Verified Curator">
