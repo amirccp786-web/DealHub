@@ -1,4 +1,3 @@
-
 Post # 1 
 
 <mark>Title: CUBIOU Folding Sofa Bed, Convertible Sleeper Chair, Corduroy Boneless Couch</mark> Category: Home and Kitchen Price: 169.99 Original Price: 169.99 Amazon Link: **<u><mark>https://amzn.to/3W5FX9a</mark></u>** Image URL: https://m.media-amazon.com/images/I/81rbumIhr-L._AC_SL1500_.jpg Tag: Top Pick Rating: 4.3 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Customers find the sofa bed comfortable and appreciate its appearance, describing it as a nice addition to their living room and saying their grandkids love it. The corduroy fabric feels wonderfully soft and durable.</mark> 
@@ -79,7 +78,9 @@ Post # 18
 
 <mark>Title: Kiehl's - Ultra Facial Cream Daily Moisturizer with 4.5% Squalene Category: Women’s Fashion Price: 39.00</mark> Original Price: 39.00 Amazon Link: **<u><mark>https://link.amazon/B09TywcYj</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/81slPLf8YYL._SL1500_.jpg Tag: Best Value Rating: 4.7 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Customers find this moisturizer effective and deeply hydrating, with a smooth texture that absorbs quickly without leaving a greasy residue. They appreciate that it is unscented, lightweight, and gentle on sensitive skin.</mark> 
 
-Post # 19 <mark>Title: Women’s Silk Pajamas Floral Button Up Long Sleeve Satin Pj Sets Category: Women’s Fashion Price: 35.99</mark> Original Price: 35.99 Amazon Link: **<u><mark>https://link.amazon/B0gqOgc7I</mark></u>** Image URL: https://m.media-amazon.com/images/I/71A7BQtneFL._AC_AIweblab1392912,T3_FMavif_SF659,879_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Trending Rating: 4.5 Prime: yes Tracking ID: fatimasstudios-20 Reviews: Silky, soft satin with a beautiful floral pattern and classic button-down long sleeves. The fit is true to size, comfortable for lounging or sleeping, and washes and dries beautifully in the dryer. 
+Post # 19
+
+ <mark>Title: Women’s Silk Pajamas Floral Button Up Long Sleeve Satin Pj Sets Category: Women’s Fashion Price: 35.99</mark> Original Price: 35.99 Amazon Link: **<u><mark>https://link.amazon/B0gqOgc7I</mark></u>** Image URL: https://m.media-amazon.com/images/I/71A7BQtneFL._AC_AIweblab1392912,T3_FMavif_SF659,879_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Trending Rating: 4.5 Prime: yes Tracking ID: fatimasstudios-20 Reviews: Silky, soft satin with a beautiful floral pattern and classic button-down long sleeves. The fit is true to size, comfortable for lounging or sleeping, and washes and dries beautifully in the dryer. 
 
 Post # 20 
 
@@ -119,5 +120,37 @@ Post # 27
 
 <mark>Title: Dreamsoft Travel Scarf, Wrap and Shawl for Women, Organic Cotton Category: Women’s Fashion Price: 50.00</mark> Original Price: 75.00 Amazon Link: **<u><mark>https://link.amazon/B0bO6xi5h</mark></u>** Image URL: https://m.media-amazon.com/images/I/7197L9+S4pL._AC_AIweblab1392912,T3_FMavif_SF571,879_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Hot Deal Rating: 4.5 Prime: yes Tracking ID: fatimasstudios-20 Reviews: The Softness and warmth are a strong point and versatility is a plus, though easy care. The shawl fabric is soft, warm but not hot. It can be worn: as a scarf, a wrap, or a light blanket. It looks is elegant and stylish. The lightweight feel, which packs easily in a carry-on. It washes well in the machine. 
 
+Post # 28 
 
+<mark>Title: Men's Genuine Leather Suede Belt Casual Dress Belt for Jeans Pants Category: Men’s Fashion Price: 27.59</mark> Original Price: 32.99 Amazon Link: **https://link.amazon/B000qzvIq** Image URL: https://m.media-amazon.com/images/I/81NfqIKLysL._AC_AIweblab1392912,T3_FMavif_SF679,679_PQ70_.j pg?aicid=detailPage-mediaBlock Tag: Top Pick Rating: 5.0 Prime: yes Tracking ID: yahyaamir786-20 Reviews: It’s perfect for everyday casual wear — pairs great with jeans, chinos, and loafers. Feels comfortable, lightweight, and stylish for office-casual to weekend outfits. The light beige lining and sturdy loop show good finishing, and the slim width makes it look modern, not bulky. 
+
+Post # 29 
+
+<mark>Title: COZIA Merino Wool Socks for Men & Women Casual Warm Winter Cozy Thermal Socks Category: Men’s Fashion Price: 14.99</mark> Original Price: 19.99 Amazon Link: **<u><mark>https://link.amazon/B09dckfeH</mark></u>** Image URL: https://m.media-amazon.com/images/I/81oDj5olNPL._AC_AIweblab1392912,T3_FMavif_SF679,679_PQ70_.j pg?aicid=detailPage-mediaBlock Tag: Hot Deal Rating: 4.6 Prime: no Tracking ID: yahyaamir786-20 Reviews: The COZIA Merino Wool socks are a great balance of warmth, comfort, and durability. They have nice medium thickness that works for both boots and everyday wear. An impressive quality is handling moisture, don’t feel damp or clammy. They have enough stretch to stay up without cutting into your calves, and don’t bunch up in your boots. After washes, held shape and softness with no shrinking or thinning. 
+
+Post # 30 
+
+Title: Amazon Essentials Men's Full-Zip Fleece Hoodie Sweatshirt (Available in Big & Tall) <mark>Category: Men’s Fashion Price: 16.10</mark> Original Price: 16.10 Amazon Link: **<u><mark>https://link.amazon/B0hgx1Y8q</mark></u>** Image URL: https://m.media-amazon.com/images/I/71ClkJIUDHL._AC_AIweblab1392912,T3_FMavif_SF679,679_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Top Pick Rating: 4.5 Prime: no Tracking ID: yahyaamir786-20 Reviews: It is soft, thick, warm, and cheap price jacket. Its quality is very good and a great option for office use or casual wear in home. It works great in both options. The jacket material is comfortable, thin, and lightweight. 
+
+Post # 31 
+
+<mark>Title: Amazon Essentials Men's Regular-Fit Long Sleeve Oxford Shirt, 100% Cotton Category: Men’s Fashion Price: 12.58</mark> Original Price: 12.58 Amazon Link: **<u><mark>https://link.amazon/B00LyWNMi</mark></u>** Image URL: https://m.media-amazon.com/images/I/81QTqE5P1HL._AC_AIweblab1392912,T3_FMavif_SF679,829_PQ70 _.jpg?aicid=detailPage-mediaBlock Tag: Best Value Rating: 4.4 Prime: no Tracking ID: yahyaamir786-20 Reviews: <mark>The shirt fabric quality is good, warm and rustic. It's feels well-made and the cost can't be beat. Overall</mark> finish looks durable. The buttons pass the quality test as well. 
+
+Post # 32 
+
+<mark>Title: YASONIC Shower Caddy Adhesive, Rustproof Shower Shelves for Inside Shower Category: Home and kitchen Price: 16.13</mark> Original Price: 25.99 Amazon Link: **<u><mark>https://link.amazon/B0gVy52gN</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/71LedcNsuzL._AC_SL1500_.jpg Tag: Trending Rating: 4.6 Prime: no Tracking ID: yahyaamir786-20 Reviews: **Perfect for bathroom!** Super sturdy, easy to install with no drilling, and holds a ton of bottles without budging. Looks sleek in matte black and keeps everything organized. Great value - highly recommend! 
+
+Post # 33 
+
+<mark>Title: Klever Kits DIY 3D Moon Night Light- Paint Your Own Moon Lamp for Kids 6-12 Category: Girl’s Fashion Price: 13.53</mark> Original Price: 19.99 Amazon Link: **<u><mark>https://link.amazon/B0i0DRrnY</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/81QAQJiP3QL._AC_SL1500_.jpg Tag: Hot Deal Rating: 4.6 Prime: no Tracking ID: fatimasstudios-20 Reviews: Appearance draws praise. Great texture very sturdy. It is easy to paint and it looks cute once painted. Kids to create their own designs for their room. The range of paint colors also include the metallic ones. The size is perfect for a nightlight. The quality is nice. The stand is very well-made in a nice unique shape. It's safe for young kids and good for all ages. 
+
+# Post # 34 
+
+<mark>Title: Amazon Essentials Boys and Toddlers' Soft Fleece Zip-Up Hoodie Sweatshirt Category: Boy’s Fashion Price: 11.33</mark> Original Price: 13.70 Amazon Link: **<u><mark>https://link.amazon/B09sGHQxV</mark></u>** Image URL: https://m.media-amazon.com/images/I/91GrYW2HGDL._AC_AIweblab1392912,T3_FMavif_SF679,659_PQ7 0_.jpg?aicid=detailPage-mediaBlock Tag: Top Pick Rating: 4.6 Prime: no Tracking ID: yahyaamir786-20 Reviews: The good quality hoodie. The fabric is soft, comfortable, and warm. It runs true to size and has a loose fit. The zipper is sturdy and works great. The material is a thick and soft cotton. 
+
+Post # 35 
+
+**Title:** Genuine Suede Kids Toddler Clogs Cork Footbed Boys Girls Mules <mark>Category: Boy’s Fashion</mark> 
+
+<mark>Price: 9.99</mark> Original Price: 9.99 Amazon Link: **<u><mark>https://link.amazon/B00uQQvou</mark></u>** Image URL: https://m.media-amazon.com/images/I/81iZFULGUhL._AC_AIweblab1392912,T3_FMavif_SF695,695_PQ70 _.jpg?aicid=detailPage-mediaBlock Tag: Top Pick Rating: 4.5 Prime: no Tracking ID: yahyaamir786-20 Reviews: The shoes material is great and versatile with this price. These shoes are the perfect fit. The shoes are easy to use and comfortable. The appearance is good and colors are very pretty. 
 
