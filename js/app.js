@@ -40,25 +40,53 @@ class DealStore {
       'dealhub_deals'
     ];
 
-    const initialIds = new Set(INITIAL_DEALS.map(d => d.id));
-    const userDealsMap = new Map();
+    const defaultDeals = (typeof INITIAL_DEALS !== 'undefined' && Array.isArray(INITIAL_DEALS))
+      ? INITIAL_DEALS
+      : ((typeof window !== 'undefined' && Array.isArray(window.INITIAL_DEALS)) ? window.INITIAL_DEALS : []);
+    const defaultIds = new Set(defaultDeals.map(d => d.id));
 
-    // 1. Check persistent user posts backup
+    const userDealsMap = new Map();
+    const cachedDefaultDealsMap = new Map();
+
+    const processStoredArray = (arr) => {
+      if (!Array.isArray(arr)) return;
+      arr.forEach(deal => {
+        if (!deal || !deal.id) return;
+        if (!defaultIds.has(deal.id)) {
+          // Custom user-created post (not in standard INITIAL_DEALS)
+          if (!userDealsMap.has(deal.id)) {
+            userDealsMap.set(deal.id, deal);
+          }
+        } else {
+          // Stored default post: keep latest cached state (likes, comments, etc.)
+          if (!cachedDefaultDealsMap.has(deal.id)) {
+            cachedDefaultDealsMap.set(deal.id, deal);
+          }
+        }
+      });
+    };
+
+    // 1. Process primary storage key
+    try {
+      const primaryStored = localStorage.getItem(this.STORAGE_KEY);
+      if (primaryStored) {
+        processStoredArray(JSON.parse(primaryStored));
+      }
+    } catch (e) {
+      console.warn('[DealHub] Primary storage read error', e);
+    }
+
+    // 2. Check persistent user posts backup
     try {
       const backup = localStorage.getItem(BACKUP_KEY);
       if (backup) {
-        const parsedBackup = JSON.parse(backup);
-        if (Array.isArray(parsedBackup)) {
-          parsedBackup.forEach(d => {
-            if (d && d.id) userDealsMap.set(d.id, d);
-          });
-        }
+        processStoredArray(JSON.parse(backup));
       }
     } catch (e) {
-      console.warn('Backup parse error', e);
+      console.warn('[DealHub] Backup read error', e);
     }
 
-    // 2. Scan all known and legacy localStorage keys for user custom posts
+    // 3. Scan legacy keys in localStorage for user custom posts and saved interactions
     try {
       const allKeys = new Set(KNOWN_KEYS);
       for (let i = 0; i < localStorage.length; i++) {
@@ -69,67 +97,83 @@ class DealStore {
       }
 
       allKeys.forEach(key => {
+        if (key === this.STORAGE_KEY) return;
         try {
           const val = localStorage.getItem(key);
           if (val) {
-            const arr = JSON.parse(val);
-            if (Array.isArray(arr)) {
-              arr.forEach(deal => {
-                if (deal && deal.id && !initialIds.has(deal.id)) {
-                  if (!userDealsMap.has(deal.id)) {
-                    userDealsMap.set(deal.id, deal);
-                  }
-                }
-              });
-            }
+            processStoredArray(JSON.parse(val));
           }
         } catch (err) {}
       });
     } catch (e) {}
 
-    // 3. Load active deals from primary storage key
-    let baseDeals = [];
-    try {
-      const stored = localStorage.getItem(this.STORAGE_KEY);
-      if (stored) {
-        const parsed = JSON.parse(stored);
-        if (Array.isArray(parsed) && parsed.length > 0) {
-          baseDeals = parsed;
+    // 4. Merge default posts from js/data.js (deal-1 through deal-35):
+    // Always load all default posts from data.js, incorporating any new posts (e.g. deal-28..deal-35)
+    // and updated text/prices/links, while preserving user interactions (likes, hasLiked, custom comments).
+    const mergedDefaultDeals = defaultDeals.map(defDeal => {
+      const cached = cachedDefaultDealsMap.get(defDeal.id);
+      if (!cached) {
+        // Brand new post from data.js
+        return {
+          ...defDeal,
+          likes: typeof defDeal.likes === 'number' ? defDeal.likes : 0,
+          hasLiked: Boolean(defDeal.hasLiked),
+          comments: Array.isArray(defDeal.comments) ? [...defDeal.comments] : []
+        };
+      }
+
+      // Existing default post: take fresh metadata from data.js, preserve user interactions
+      const hasLiked = typeof cached.hasLiked === 'boolean' ? cached.hasLiked : Boolean(defDeal.hasLiked);
+      
+      let likes = typeof defDeal.likes === 'number' ? defDeal.likes : 0;
+      if (typeof cached.likes === 'number') {
+        if (hasLiked && !defDeal.hasLiked) {
+          likes = Math.max(likes + 1, cached.likes);
+        } else {
+          likes = Math.max(likes, cached.likes);
         }
       }
-    } catch (e) {}
 
-    if (baseDeals.length === 0) {
-      baseDeals = [...INITIAL_DEALS];
-    }
-
-    // 4. Merge any recovered user posts at the top of the feed
-    if (userDealsMap.size > 0) {
-      const existingIds = new Set(baseDeals.map(d => d.id));
-      const recovered = Array.from(userDealsMap.values()).filter(d => !existingIds.has(d.id));
-      if (recovered.length > 0) {
-        baseDeals = [...recovered, ...baseDeals];
-        console.log(`[DealHub] Auto-recovered ${recovered.length} custom user post(s) from previous session!`);
+      // Preserve any comments
+      let comments = Array.isArray(defDeal.comments) ? [...defDeal.comments] : [];
+      if (Array.isArray(cached.comments) && cached.comments.length > 0) {
+        comments = cached.comments;
       }
-    }
 
-    // 5. Sync back to current key and backup
+      return {
+        ...defDeal,
+        likes,
+        hasLiked,
+        comments
+      };
+    });
+
+    // 5. Prepend any user custom posts at the top of the feed
+    const userPosts = Array.from(userDealsMap.values());
+    const finalDeals = [...userPosts, ...mergedDefaultDeals];
+
+    // 6. Sync back to current key and backup
     try {
-      localStorage.setItem(this.STORAGE_KEY, JSON.stringify(baseDeals));
-      const userOnly = baseDeals.filter(d => !initialIds.has(d.id));
-      if (userOnly.length > 0) {
-        localStorage.setItem(BACKUP_KEY, JSON.stringify(userOnly));
+      localStorage.setItem(this.STORAGE_KEY, JSON.stringify(finalDeals));
+      if (userPosts.length > 0) {
+        localStorage.setItem(BACKUP_KEY, JSON.stringify(userPosts));
       }
-    } catch (e) {}
+    } catch (e) {
+      console.warn('[DealHub] Failed to sync merged deals to localStorage', e);
+    }
 
-    return baseDeals;
+    console.log(`[DealHub] Auto-merged deals: ${mergedDefaultDeals.length} default posts (deal-1 to deal-${mergedDefaultDeals.length}) + ${userPosts.length} custom posts.`);
+    return finalDeals;
   }
 
   saveDeals() {
     try {
       localStorage.setItem(this.STORAGE_KEY, JSON.stringify(this.deals));
       const BACKUP_KEY = 'dealhub_user_posts_backup';
-      const initialIds = new Set(INITIAL_DEALS.map(d => d.id));
+      const defaultDeals = (typeof INITIAL_DEALS !== 'undefined' && Array.isArray(INITIAL_DEALS))
+        ? INITIAL_DEALS
+        : ((typeof window !== 'undefined' && Array.isArray(window.INITIAL_DEALS)) ? window.INITIAL_DEALS : []);
+      const initialIds = new Set(defaultDeals.map(d => d.id));
       const userOnly = this.deals.filter(d => !initialIds.has(d.id));
       localStorage.setItem(BACKUP_KEY, JSON.stringify(userOnly));
     } catch (e) {

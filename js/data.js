@@ -959,4 +959,10 @@ const INITIAL_DEALS = [
   }
 ];
 
+if (typeof window !== 'undefined') {
+  window.INITIAL_DEALS = INITIAL_DEALS;
+  window.CATEGORIES = CATEGORIES;
+  window.HERO_CONFIG = HERO_CONFIG;
+}
+
 
