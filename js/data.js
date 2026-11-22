@@ -194,7 +194,7 @@ const INTERNATIONAL_SEO_CONFIG = {
 };
 
 // Profile Avatars & Info
-const YAHYA_AVATAR = '/Logo.jfif';
+const YAHYA_AVATAR = '/Image.jpg';
 const FATIMA_AVATAR = 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80';
 
 const YAHYA_AUTHOR = {
