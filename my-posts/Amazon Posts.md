@@ -78,9 +78,9 @@ Post # 18
 
 <mark>Title: Kiehl's - Ultra Facial Cream Daily Moisturizer with 4.5% Squalene Category: Women’s Fashion Price: 39.00</mark> Original Price: 39.00 Amazon Link: **<u><mark>https://link.amazon/B09TywcYj</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/81slPLf8YYL._SL1500_.jpg Tag: Best Value Rating: 4.7 Prime: yes Tracking ID: fatimasstudios-20 Reviews: <mark>Customers find this moisturizer effective and deeply hydrating, with a smooth texture that absorbs quickly without leaving a greasy residue. They appreciate that it is unscented, lightweight, and gentle on sensitive skin.</mark> 
 
-Post # 19
+Post # 19 
 
- <mark>Title: Women’s Silk Pajamas Floral Button Up Long Sleeve Satin Pj Sets Category: Women’s Fashion Price: 35.99</mark> Original Price: 35.99 Amazon Link: **<u><mark>https://link.amazon/B0gqOgc7I</mark></u>** Image URL: https://m.media-amazon.com/images/I/71A7BQtneFL._AC_AIweblab1392912,T3_FMavif_SF659,879_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Trending Rating: 4.5 Prime: yes Tracking ID: fatimasstudios-20 Reviews: Silky, soft satin with a beautiful floral pattern and classic button-down long sleeves. The fit is true to size, comfortable for lounging or sleeping, and washes and dries beautifully in the dryer. 
+<mark>Title: Women’s Silk Pajamas Floral Button Up Long Sleeve Satin Pj Sets Category: Women’s Fashion Price: 35.99</mark> Original Price: 35.99 Amazon Link: **<u><mark>https://link.amazon/B0gqOgc7I</mark></u>** Image URL: https://m.media-amazon.com/images/I/71A7BQtneFL._AC_AIweblab1392912,T3_FMavif_SF659,879_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Trending Rating: 4.5 Prime: yes Tracking ID: fatimasstudios-20 Reviews: Silky, soft satin with a beautiful floral pattern and classic button-down long sleeves. The fit is true to size, comfortable for lounging or sleeping, and washes and dries beautifully in the dryer. 
 
 Post # 20 
 
@@ -113,7 +113,6 @@ Post # 25
 Post # 26 
 
 <mark>Title: Bolerose Formal Puff Sleeve Satin Bolero Jacket</mark> 
-
 <mark>Category: Women’s Fashion Price: 44.98</mark> Original Price: 44.989 Amazon Link: **<u><mark>https://link.amazon/B0aHBRGhk</mark></u>** Image URL: https://m.media-amazon.com/images/I/71xveIGEE1L._AC_AIweblab1392912,T3_FMavif_SF679,849_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Best value Rating: 4.1 Prime: yes Tracking ID: fatimasstudios-20 Reviews: Customers find the bolero shrug to be a great little jacket that looks expensive and is made well. The <mark>satin fabric is luxurious, and it fits perfectly, making it perfect for wearing with wedding dresses. It is true to size</mark> and opinions about the color are also good. 
 
 Post # 27 
@@ -122,35 +121,56 @@ Post # 27
 
 Post # 28 
 
-<mark>Title: Men's Genuine Leather Suede Belt Casual Dress Belt for Jeans Pants Category: Men’s Fashion Price: 27.59</mark> Original Price: 32.99 Amazon Link: **https://link.amazon/B000qzvIq** Image URL: https://m.media-amazon.com/images/I/81NfqIKLysL._AC_AIweblab1392912,T3_FMavif_SF679,679_PQ70_.j pg?aicid=detailPage-mediaBlock Tag: Top Pick Rating: 5.0 Prime: yes Tracking ID: yahyaamir786-20 Reviews: It’s perfect for everyday casual wear — pairs great with jeans, chinos, and loafers. Feels comfortable, lightweight, and stylish for office-casual to weekend outfits. The light beige lining and sturdy loop show good finishing, and the slim width makes it look modern, not bulky. 
+<mark>Title: Men's Genuine Leather Suede Belt Casual Dress Belt for Jeans Pants Category: Men’s Fashion Price: 27.59</mark> Original Price: 32.99 Amazon Link: **https://link.amazon/B000qzvIq** Image URL: https://m.media-amazon.com/images/I/81NfqIKLysL._AC_AIweblab1392912,T3_FMavif_SF679,679_PQ70_.j pg?aicid=detailPage-mediaBlock Tag: Top Pick Rating: 5.0 Prime: yes Tracking ID: yahyaamir786-20 Reviews: Perfect for everyday casual wear — pairs great with jeans, chinos, and loafers. Feels comfortable, lightweight, and stylish for office-casual to weekend outfits. The light beige lining and slim width give it a modern, polished look. 
 
 Post # 29 
 
-<mark>Title: COZIA Merino Wool Socks for Men & Women Casual Warm Winter Cozy Thermal Socks Category: Men’s Fashion Price: 14.99</mark> Original Price: 19.99 Amazon Link: **<u><mark>https://link.amazon/B09dckfeH</mark></u>** Image URL: https://m.media-amazon.com/images/I/81oDj5olNPL._AC_AIweblab1392912,T3_FMavif_SF679,679_PQ70_.j pg?aicid=detailPage-mediaBlock Tag: Hot Deal Rating: 4.6 Prime: no Tracking ID: yahyaamir786-20 Reviews: The COZIA Merino Wool socks are a great balance of warmth, comfort, and durability. They have nice medium thickness that works for both boots and everyday wear. An impressive quality is handling moisture, don’t feel damp or clammy. They have enough stretch to stay up without cutting into your calves, and don’t bunch up in your boots. After washes, held shape and softness with no shrinking or thinning. 
+<mark>Title: COZIA Merino Wool Socks for Men & Women Casual Warm Winter Cozy Thermal Socks Category: Men’s Fashion Price: 14.99</mark> Original Price: 19.99 Amazon Link: **<u><mark>https://link.amazon/B09dckfeH</mark></u>** Image URL: https://m.media-amazon.com/images/I/81oDj5olNPL._AC_AIweblab1392912,T3_FMavif_SF679,679_PQ70_.j pg?aicid=detailPage-mediaBlock Tag: Hot Deal Rating: 4.6 Prime: no Tracking ID: yahyaamir786-20 Reviews: Great balance of warmth, comfort, and durability. Medium-thickness merino wool handles moisture beautifully — no damp or clammy feel. Stays up all day without cutting into calves, holds shape after multiple washes 
 
 Post # 30 
-
-Title: Amazon Essentials Men's Full-Zip Fleece Hoodie Sweatshirt (Available in Big & Tall) <mark>Category: Men’s Fashion Price: 16.10</mark> Original Price: 16.10 Amazon Link: **<u><mark>https://link.amazon/B0hgx1Y8q</mark></u>** Image URL: https://m.media-amazon.com/images/I/71ClkJIUDHL._AC_AIweblab1392912,T3_FMavif_SF679,679_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Top Pick Rating: 4.5 Prime: no Tracking ID: yahyaamir786-20 Reviews: It is soft, thick, warm, and cheap price jacket. Its quality is very good and a great option for office use or casual wear in home. It works great in both options. The jacket material is comfortable, thin, and lightweight. 
+<mark>Title: Amazon Essentials Men's Full-Zip Fleece Hoodie Sweatshirt (Available in Big & Tall) <mark>Category: Men’s Fashion Price: 16.10</mark> Original Price: 16.10 Amazon Link: **<u><mark>https://link.amazon/B0hgx1Y8q</mark></u>** Image URL: https://m.media-amazon.com/images/I/71ClkJIUDHL._AC_AIweblab1392912,T3_FMavif_SF679,679_PQ70_. jpg?aicid=detailPage-mediaBlock Tag: Top Pick Rating: 4.5 Prime: no Tracking ID: yahyaamir786-20 Reviews: Soft, warm, and unbeatable at this price. Works equally well for the office or casual home wear. Lightweight and comfortable material that layers perfectly without feeling bulky. 
 
 Post # 31 
 
-<mark>Title: Amazon Essentials Men's Regular-Fit Long Sleeve Oxford Shirt, 100% Cotton Category: Men’s Fashion Price: 12.58</mark> Original Price: 12.58 Amazon Link: **<u><mark>https://link.amazon/B00LyWNMi</mark></u>** Image URL: https://m.media-amazon.com/images/I/81QTqE5P1HL._AC_AIweblab1392912,T3_FMavif_SF679,829_PQ70 _.jpg?aicid=detailPage-mediaBlock Tag: Best Value Rating: 4.4 Prime: no Tracking ID: yahyaamir786-20 Reviews: <mark>The shirt fabric quality is good, warm and rustic. It's feels well-made and the cost can't be beat. Overall</mark> finish looks durable. The buttons pass the quality test as well. 
+<mark>Title: Amazon Essentials Men's Regular-Fit Long Sleeve Oxford Shirt, 100% Cotton Category: Men’s Fashion Price: 12.58</mark> Original Price: 12.58 Amazon Link: **<u><mark>https://link.amazon/B00LyWNMi</mark></u>** Image URL: https://m.media-amazon.com/images/I/81QTqE5P1HL._AC_AIweblab1392912,T3_FMavif_SF679,829_PQ70 _.jpg?aicid=detailPage-mediaBlock Tag: Best Value Rating: 4.4 Prime: no Tracking ID: yahyaamir786-20 Reviews: Well-made 100% cotton Oxford shirt with a warm, rustic feel that looks far more expensive than its price. Sturdy buttons, durable finish, and a classic fit that works for casual or smart-casual occasions. 
 
 Post # 32 
 
-<mark>Title: YASONIC Shower Caddy Adhesive, Rustproof Shower Shelves for Inside Shower Category: Home and kitchen Price: 16.13</mark> Original Price: 25.99 Amazon Link: **<u><mark>https://link.amazon/B0gVy52gN</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/71LedcNsuzL._AC_SL1500_.jpg Tag: Trending Rating: 4.6 Prime: no Tracking ID: yahyaamir786-20 Reviews: **Perfect for bathroom!** Super sturdy, easy to install with no drilling, and holds a ton of bottles without budging. Looks sleek in matte black and keeps everything organized. Great value - highly recommend! 
+<mark>Title: YASONIC Shower Caddy Adhesive, Rustproof Shower Shelves for Inside Shower</mark> 
+
+<mark>Category: Home and kitchen Price: 16.13</mark> Original Price: 25.99 Amazon Link: **<u><mark>https://link.amazon/B0gVy52gN</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/71LedcNsuzL._AC_SL1500_.jpg Tag: Trending Rating: 4.6 Prime: no Tracking ID: yahyaamir786-20 Reviews: Super sturdy, no-drill adhesive shower caddy that holds a full load of bottles without budging. Sleek matte black finish keeps the bathroom looking organized and stylish. Easy to install and great value. 
 
 Post # 33 
 
-<mark>Title: Klever Kits DIY 3D Moon Night Light- Paint Your Own Moon Lamp for Kids 6-12 Category: Girl’s Fashion Price: 13.53</mark> Original Price: 19.99 Amazon Link: **<u><mark>https://link.amazon/B0i0DRrnY</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/81QAQJiP3QL._AC_SL1500_.jpg Tag: Hot Deal Rating: 4.6 Prime: no Tracking ID: fatimasstudios-20 Reviews: Appearance draws praise. Great texture very sturdy. It is easy to paint and it looks cute once painted. Kids to create their own designs for their room. The range of paint colors also include the metallic ones. The size is perfect for a nightlight. The quality is nice. The stand is very well-made in a nice unique shape. It's safe for young kids and good for all ages. 
+<mark>Title: Klever Kits DIY 3D Moon Night Light- Paint Your Own Moon Lamp for Kids 6-12 Category: Girl’s Fashion Price: 13.53</mark> Original Price: 19.99 Amazon Link: **<u><mark>https://link.amazon/B0i0DRrnY</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/81QAQJiP3QL._AC_SL1500_.jpg Tag: Hot Deal Rating: 4.6 Prime: no Tracking ID: fatimasstudios-20 Reviews: <mark>Kids absolutely love painting their own personalized moon lamp! Sturdy texture, easy to paint, and the</mark> metallic color set is a bonus. The well-crafted stand and perfect nightlight size make it safe and adorable for all ages. 
 
-# Post # 34 
+Post # 34 
 
-<mark>Title: Amazon Essentials Boys and Toddlers' Soft Fleece Zip-Up Hoodie Sweatshirt Category: Boy’s Fashion Price: 11.33</mark> Original Price: 13.70 Amazon Link: **<u><mark>https://link.amazon/B09sGHQxV</mark></u>** Image URL: https://m.media-amazon.com/images/I/91GrYW2HGDL._AC_AIweblab1392912,T3_FMavif_SF679,659_PQ7 0_.jpg?aicid=detailPage-mediaBlock Tag: Top Pick Rating: 4.6 Prime: no Tracking ID: yahyaamir786-20 Reviews: The good quality hoodie. The fabric is soft, comfortable, and warm. It runs true to size and has a loose fit. The zipper is sturdy and works great. The material is a thick and soft cotton. 
+<mark>Title: Amazon Essentials Boys and Toddlers' Soft Fleece Zip-Up Hoodie Sweatshirt Category: Boy’s Fashion Price: 11.33</mark> Original Price: 13.70 Amazon Link: **<u><mark>https://link.amazon/B09sGHQxV</mark></u>** Image URL: https://m.media-amazon.com/images/I/91GrYW2HGDL._AC_AIweblab1392912,T3_FMavif_SF679,659_PQ7 0_.jpg?aicid=detailPage-mediaBlock Tag: Top Pick Rating: 4.6 Prime: no Tracking ID: yahyaamir786-20 Reviews: Soft, thick, and cozy fleece hoodie that runs true to size with a comfortable loose fit. Sturdy zipper, warm cotton material, and an unbeatable price — a wardrobe essential for boys of all ages. 
 
 Post # 35 
 
-**Title:** Genuine Suede Kids Toddler Clogs Cork Footbed Boys Girls Mules <mark>Category: Boy’s Fashion</mark> 
+**Title:** Genuine Suede Kids Toddler Clogs Cork Footbed Boys Girls Mules <mark>Category: Boy’s Fashion Price: 9.99</mark> Original Price: 9.99 
+Amazon Link: **<u><mark>https://link.amazon/B00uQQvou</mark></u>** Image URL: https://m.media-amazon.com/images/I/81iZFULGUhL._AC_AIweblab1392912,T3_FMavif_SF695,695_PQ70 _.jpg?aicid=detailPage-mediaBlock Tag: Top Pick Rating: 4.5 Prime: no Tracking ID: yahyaamir786-20 Reviews: Great quality genuine suede clogs with a comfortable cork footbed at an amazing price. Easy slip-on design, pretty colors, and versatile enough for boys and girls. Perfect fit and very easy to wear. 
 
-<mark>Price: 9.99</mark> Original Price: 9.99 Amazon Link: **<u><mark>https://link.amazon/B00uQQvou</mark></u>** Image URL: https://m.media-amazon.com/images/I/81iZFULGUhL._AC_AIweblab1392912,T3_FMavif_SF695,695_PQ70 _.jpg?aicid=detailPage-mediaBlock Tag: Top Pick Rating: 4.5 Prime: no Tracking ID: yahyaamir786-20 Reviews: The shoes material is great and versatile with this price. These shoes are the perfect fit. The shoes are easy to use and comfortable. The appearance is good and colors are very pretty. 
+Post # 36 
+<mark>Title: 2 in 1 Oil Sprayer, Oil Sprayer for Kitchen Cooking, 470ml Oil Spray Bottle for Home <mark>Category: Home and Kitchen Price: 5.25</mark> Original Price: 5.93 Amazon Link: **<u><mark>https://link.amazon/B0dmuFNoJ</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/61LG6hbiiOL._AC_SL1000_.jpg Tag: Best Value Rating: 4.4 Prime: no Tracking ID: fatimasstudios-20 Reviews: Great kitchen convenience! Love this oil sprayer. Works great and you get to use favorite olive oil in spray or easily pourable. The pump works perfectly, it's super easy to clean, and it looks great on your counter. Great price and totally worth it! 
+
+# Post # 37 
+
+Title: Washable Area Rugs - Stain & Water-Resistant Non-Slip, Vintage Tribal Area Rugs (Rust, 5' x 7') <mark>Category: Home and Kitchen Price: 45.99</mark> Original Price: 65.99 Amazon Link: **<u><mark>https://link.amazon/B0ak5LnP5</mark></u>** Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/91NnGn3pmpL._AC_SL1500_.jpg Tag: Hot Deal Rating: 4.4 Prime: no Tracking ID: yahyaamir786-20 Reviews: Beautiful vintage tribal print area rug that is completely machine washable, stain-resistant, and non-slip. Soft underfoot, lays flat without curling, and holds up wonderfully to daily traffic and spills. 
+
+# Post # 38 
+
+**<mark>Title:</mark>** <mark>10.1" Wi-Fi Digital Picture Frame with Frameo App, Gifts for Mom & Grandma Category: Electronic Price: 42.74</mark> Original Price: 69.99 Amazon Link: **<u><mark>https://link.amazon/B0hHBNVMp</mark></u>** 
+
+Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/814+Pu3Nu4L._AC_SL1500_.jpg Tag: Hot Deal Rating: 4.6 Prime: no Tracking ID: fatimasstudios-20 Reviews: Absolutely LOVE Frameo picture frames. Great gift for Mom. They’re a great size, easy to use and connect over long distances. The display is bright and detailed. It’s very easy to connect using different devices and have good storage space. It is user friendly. 
+
+# Post # 39 
+
+<mark>Title: Android 16 Tablet 11 Inch,Octa‑Core, 20GB RAM+128GB ROM,1TB Expandable, Gray Category: Electronic Price: 99.99</mark> Original Price: 149.99 Amazon Link: https://link.amazon/B00cMuVjn Image URL: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/ images/I/71+qOX1t67L._AC_SL1500_.jpg Tag: Hot Deal Rating: 4.3 Prime: no Tracking ID: yahyaamir786-20 Reviews: Great tablet with good battery life and plenty of storage space. Smooth and responsive touchscreen. Excellent 10-inch screen size, making it perfect for everyday use. It looks great and easy to use. Useful for organizing things, browsing, watching videos, and getting everyday tasks done. Definitely a great choice! 
+
+Post # 40 
+
+Title: Portable Charger Slim 10000mAh Power Bank, 22.5W USB-C Fast Charging Battery Pack (Black) <mark>Category: Electronic Price: 12.99</mark> Original Price: 12.99 Amazon Link: https://link.amazon/B001XfVHk Image URL: https://m.media-amazon.com/images/I/71ZoZde9kSL._AC_SL1500_.jpg Tag: Best Value Rating: 4.3 Prime: yes Tracking ID: yahyaamir786-20 Reviews: <mark>Customers find the power bank to be a great portable unit that's easy to carry, with good battery life that displays remaining power levels. They consider it good value for money and appreciate its quick charging speed.</mark> The feedback regarding weight is mixed, with some finding it lightweight while others say it's quite heavy. 
 
