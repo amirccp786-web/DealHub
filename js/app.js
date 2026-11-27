@@ -107,8 +107,8 @@ class DealStore {
       });
     } catch (e) {}
 
-    // 4. Merge default posts from js/data.js (deal-1 through deal-40):
-    // Always load all default posts from data.js, incorporating any new posts (e.g. deal-28..deal-40)
+    // 4. Merge default posts from js/data.js (deal-1 through deal-48):
+    // Always load all default posts from data.js, incorporating any new posts (e.g. deal-28..deal-48)
     // and updated text/prices/links, while preserving user interactions (likes, hasLiked, custom comments).
     const mergedDefaultDeals = defaultDeals.map(defDeal => {
       const cached = cachedDefaultDealsMap.get(defDeal.id);
